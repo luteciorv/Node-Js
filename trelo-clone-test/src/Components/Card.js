@@ -10,12 +10,12 @@ const useStyle = makeStyles((theme) => ({
    }
 }));
 
-export default function Card() {
+export default function Card({ card }) {
     const classes = useStyle();
 
     return (
         <div>
-            <Paper className={classes.card}>Fazendo vídeos para o YouTube</Paper>
+            <Paper className={classes.card}>{card.title}</Paper>
         </div>
     );  
 };
