@@ -19,9 +19,14 @@ const data = {
             id: "list-1",
             title: "A ser feito",
             cards
-        },        
+        },
+        "list-2":{
+            id: "list-2",
+            title: "Fazendo",
+            cards: []
+        }      
     },
-    listIds: ["list-1"]
+    listIds: ["list-1", "list-2"]
 };
 
 export default data;
