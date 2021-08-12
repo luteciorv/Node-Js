@@ -1,3 +1,12 @@
+// Auxiliares
+Clone-Trello: https://www.youtube.com/playlist?list=PLYHXTr4kGJjFlQzqBtOjVI1I-q7o3WXHh
+Clone-Pipey: https://www.youtube.com/watch?v=awRtgpRsdTQ&t=2719s
+
+Drag and Drop: https://www.freecodecamp.org/news/how-to-add-drag-and-drop-in-react-with-react-beautiful-dnd/
+Drag and Drop 2: https://blog.logrocket.com/react-drag-and-drop/
+
+// Módulos
 Material-ui: https://material-ui.com/pt/
 Material-icons: https://material-ui.com/pt/components/material-icons/
 React-Beautiful-Dnd: https://www.npmjs.com/package/react-beautiful-dnd
+Unsplash: https://unsplash.com/developers
